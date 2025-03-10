@@ -4,3 +4,11 @@
 
 layout: home
 ---
+# current goal: 3 weeks
+
+<pre>
+Wk | S m t w h f s
+01 | x
+02 |
+03 |
+</pre>
