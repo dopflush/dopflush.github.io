@@ -8,7 +8,7 @@ layout: home
 
 <pre>
 Wk | S m t w h f s
-01 | x x
+01 | x x x x
 02 |
 03 |
 </pre>
